@@ -52,3 +52,10 @@ fs.readdir('./drops', (err, files) => {
 
 	});
 });
+var _hmt = _hmt || [];
+(function() {
+  var hm = document.createElement("script");
+  hm.src = "https://hm.baidu.com/hm.js?65b1db686913b39658c3aa88f2765a8d";
+  var s = document.getElementsByTagName("script")[0]; 
+  s.parentNode.insertBefore(hm, s);
+})();
